@@ -9,12 +9,12 @@ As a budding Data Analyst traversing the vast cosmos of data, I seek to unearth 
 📚 Learning: Advanced statistical methods and data visualization techniques.
 🤝 Collaborating: On data-driven projects that make a difference.
 
-<!-- ## 📜 The Tale of My Quests
+ ## 📜 The Tale of My Quests
 
 In my repository of wonders, you'll find projects that are not just code, but tales of challenges, learning, and triumphs.
 
-- **[Project Name]**: A tale of [Brief description]. ([View Repository](#))
-- **[Project Name]**: An adventure in [Brief description]. ([View Repository](#)) -->
+- **Credit Card Defaulters Prediction**: A journey into the world of finance using the lens of machine learning. This project delves into predicting credit card payment defaults through a range of ML models, showcasing the intersection of data analysis and financial risk assessment. (https://github.com/sahithiv888/CreditCardDefaulterPrediction)
+<!--- **[Project Name]**: An adventure in [Brief description]. ([View Repository](#)) -->
 
 ## 🧙‍♂️ Skills and Spells
 
