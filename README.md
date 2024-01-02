@@ -14,7 +14,7 @@ As a budding Data Analyst traversing the vast cosmos of data, I seek to unearth 
 In my repository of wonders, you'll find projects that are not just code, but tales of challenges, learning, and triumphs.
 
 - **Credit Card Defaulters Prediction**: A journey into the world of finance using the lens of machine learning. This project delves into predicting credit card payment defaults through a range of ML models, showcasing the intersection of data analysis and financial risk assessment. (https://github.com/sahithiv888/CreditCardDefaulterPrediction)
- **Superstore Sales Forecast- PowerBI Analysis**: An adventure in unraveling sales trends and customer behaviors through interactive Power BI visualizations. (https://github.com/sahithiv888/SuperstoreSalesForecast-PowerBI)
+- **Superstore Sales Forecast- PowerBI Analysis**: An adventure in unraveling sales trends and customer behaviors through interactive Power BI visualizations. (https://github.com/sahithiv888/SuperstoreSalesForecast-PowerBI)
 
 ## 🧙‍♂️ Skills and Spells
 
