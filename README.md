@@ -18,7 +18,7 @@ In my repository of wonders, you'll find projects that are not just code, but ta
 
 ## 🧙‍♂️ Skills and Spells
 
-- 📊 **Data Analysis Tools**: Conjuring insights with Excel, Python (Pandas, NumPy), and SQL.
+- 📊 **Data Analysis Tools**: Conjuring insights with Excel, Python (Pandas, NumPy, Scikit Learn, Seaborn, Matplotlib), and SQL.
 - 📈 **Visualization Wands**: Crafting stories with Tableau and PowerBI.
 
 ## 📡 Connect Across the Realms
