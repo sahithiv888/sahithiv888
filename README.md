@@ -16,6 +16,10 @@ In my repository of wonders, you'll find projects that are not just code, but ta
 - **Credit Card Defaulters Prediction**: A journey into the world of finance using the lens of machine learning. This project delves into predicting credit card payment defaults through a range of ML models, showcasing the intersection of data analysis and financial risk assessment. (https://github.com/sahithiv888/CreditCardDefaulterPrediction)
 - **Superstore Sales Forecast- PowerBI Analysis**: An adventure in unraveling sales trends and customer behaviors through interactive Power BI visualizations. (https://github.com/sahithiv888/SuperstoreSalesForecast-PowerBI)
 
+- **Real-Time Face Mask Detector with CNN and OpenCV**: This project is a foray into the blend of public health and technology. In an era where face masks have become essential, this real-time detector uses CNN and OpenCV to discern between masked and unmasked faces. It's a story of bridging computer vision and societal safety, contributing to the efforts against health hazards.(https://github.com/sahithiv888/RealTime-MaskDetection)
+
+
+
 ## 🧙‍♂️ Skills and Spells
 
 - 📊 **Data Analysis Tools**: Conjuring insights with Excel, Python (Pandas, NumPy, Scikit Learn, Seaborn, Matplotlib), and SQL.
