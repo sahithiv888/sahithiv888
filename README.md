@@ -18,9 +18,7 @@ In my repository of wonders, you'll find projects that are not just code, but ta
 
 - **Real-Time Face Mask Detector with CNN and OpenCV**: This project is a foray into the blend of public health and technology. In an era where face masks have become essential, this real-time detector uses CNN and OpenCV to discern between masked and unmasked faces. It's a story of bridging computer vision and societal safety, contributing to the efforts against health hazards.(https://github.com/sahithiv888/RealTime-MaskDetection)
 
-### ChocoTrack - Chocolate Sales Insights with Power BI
-Embark on an analytical odyssey to explore the delectable world of chocolate sales. With ChocoTrack, harness the power of Power BI to visualize the performance of salespersons, unravel the confections of chocolate products, and decode the trends in various countries. It's a visual feast that illustrates the sweet success of sales strategies and market penetrations.
-- ChocoTrack - Chocolate Sales Insights with Power BI (https://github.com/sahithiv888/Sweet-Success-A-Salesperson-s-Journey)
+- **ChocoTrack - Chocolate Sales Insights with Power BI**:Embark on an analytical odyssey to explore the delectable world of chocolate sales. With ChocoTrack, harness the power of Power BI to visualize the performance of salespersons, unravel the confections of chocolate products, and decode the trends in various countries. It's a visual feast that illustrates the sweet success of sales strategies and market penetrations. (https://github.com/sahithiv888/Sweet-Success-A-Salesperson-s-Journey)
 
 
 ## 🧙‍♂️ Skills and Spells
