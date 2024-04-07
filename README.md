@@ -2,7 +2,7 @@
 
 ## 🌌 Welcome to My Digital Universe
 
-As a budding Data Analyst traversing the vast cosmos of data, I seek to unearth hidden gems of insights and craft stories from numbers and figures.
+A Data Analyst traversing the vast cosmos of data, I seek to unearth hidden gems of insights and craft stories from numbers and figures.
 
 🔭 Exploring: Big Data landscapes and Machine Learning mysteries.
 🌱 Growing: My skills in Python, R, and SQL.
@@ -20,7 +20,8 @@ In my repository of wonders, you'll find projects that are not just code, but ta
 
 - **ChocoTrack - Chocolate Sales Insights with Power BI**:Embark on an analytical odyssey to explore the delectable world of chocolate sales. With ChocoTrack, harness the power of Power BI to visualize the performance of salespersons, unravel the confections of chocolate products, and decode the trends in various countries. It's a visual feast that illustrates the sweet success of sales strategies and market penetrations. (https://github.com/sahithiv888/Sweet-Success-A-Salesperson-s-Journey)
 
-
+- **Vegetable Recognition using CNN:** Dive into the realm of image recognition with this project that utilizes Convolutional Neural Networks to classify images of vegetables. From data preprocessing to model evaluation, this journey through AI showcases the application of deep learning in understanding and classifying the natural world. Ideal for those interested in machine learning and image classification. (https://github.com/sahithiv888/Vegetable-Recognition-using-CNN)
+  
 ## 🧙‍♂️ Skills and Spells
 
 - 📊 **Data Analysis Tools**: Conjuring insights with Excel, Python (Pandas, NumPy, Scikit Learn, Seaborn, Matplotlib), and SQL.
