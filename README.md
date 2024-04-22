@@ -21,11 +21,15 @@ In my repository of wonders, you'll find projects that are not just code, but ta
 - **ChocoTrack - Chocolate Sales Insights with Power BI**:Embark on an analytical odyssey to explore the delectable world of chocolate sales. With ChocoTrack, harness the power of Power BI to visualize the performance of salespersons, unravel the confections of chocolate products, and decode the trends in various countries. It's a visual feast that illustrates the sweet success of sales strategies and market penetrations. (https://github.com/sahithiv888/Sweet-Success-A-Salesperson-s-Journey)
 
 - **Vegetable Recognition using CNN:** Dive into the realm of image recognition with this project that utilizes Convolutional Neural Networks to classify images of vegetables. From data preprocessing to model evaluation, this journey through AI showcases the application of deep learning in understanding and classifying the natural world. Ideal for those interested in machine learning and image classification. (https://github.com/sahithiv888/Vegetable-Recognition-using-CNN)
+
+-🏨 Hotel Booking Demand Analysis: An exploration into the dynamics of the hospitality industry, focusing on hotel bookings and cancellations. This project delves deep into data to uncover patterns that drive cancellation rates and their impact on hotel revenues. Using Python and libraries such as Pandas, Seaborn, and Matplotlib, I demonstrate how data-driven decisions can optimize hotel operations and enhance guest satisfaction. This journey not only illustrates the practical applications of data analysis in solving real-world business challenges but also highlights the importance of strategic insight in the bustling world of hospitality. A tale of numbers transforming hotel management strategies! (https://github.com/sahithiv888/Hotel-Booking-Demand-Analysis)
+
   
 ## 🧙‍♂️ Skills and Spells
 
 - 📊 **Data Analysis Tools**: Conjuring insights with Excel, Python (Pandas, NumPy, Scikit Learn, Seaborn, Matplotlib), and SQL.
 - 📈 **Visualization Wands**: Crafting stories with Tableau and PowerBI.
+
 
 ## 📡 Connect Across the Realms
 
